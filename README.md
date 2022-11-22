@@ -16,3 +16,8 @@ Python 3
 2. Download the code in your working directory.
 
 3. ``` import gt_net``` in your code.
+
+
+
+
+read the code for comments and stuff i was too lazy to improve, feel free to edit and improve my dogwater code
